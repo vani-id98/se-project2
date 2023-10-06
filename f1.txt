@@ -1,1 +1,2 @@
 git is a software.
+it is used to explore projects
