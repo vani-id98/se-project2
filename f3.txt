@@ -1,1 +1,2 @@
-It is more useful for developers.
+it is a distributed version
+control system.
